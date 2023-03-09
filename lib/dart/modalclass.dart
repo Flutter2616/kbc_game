@@ -1,7 +1,7 @@
 class Data
 {
-  List? qu=[];
+  int? qulen;
   String? user,ans;
   int? amount,i;
-  Data({this.qu,this.user,this.i,this.ans,this.amount});
+  Data({this.qulen,this.user,this.i,this.ans,this.amount});
 }
